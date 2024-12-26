@@ -3,7 +3,7 @@ parameter:
   PROCESSING_TIME_TYPE: '1m'
 db:
   DRIVER: 'SQL Server'
-  SERVER: '51.12.247.74'
+  SERVER: '192.168.1.2'
   NAME: 'Ocean'
   USERNAME: 'sa'
   PASSWORD: 'zeka7744'
